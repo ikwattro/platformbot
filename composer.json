@@ -1,0 +1,10 @@
+{
+    "name": "ikwattro/platform-bot",
+    "authors": [
+        {
+            "name": "Christophe Willemsen",
+            "email": "willemsen.christophe@gmail.com"
+        }
+    ],
+    "require": {}
+}

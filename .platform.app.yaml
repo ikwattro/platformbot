@@ -1,0 +1,9 @@
+name: 'platform-bot'
+type: 'php:7.1'
+disk: 512
+web:
+    commands:
+        start: php run.php
+    upstream:
+            socket_family: tcp
+            protocol: http
