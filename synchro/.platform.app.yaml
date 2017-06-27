@@ -1,4 +1,4 @@
-name: 'platform-bot'
+name: 'platform-bot-synchronizer'
 type: 'php:7.1'
 disk: 512
 web:
